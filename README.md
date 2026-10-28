@@ -34,3 +34,5 @@ Each networking hardware device has a specific role in building a reliable netwo
 ⭐ **Purpose:** Basic networking concepts and real-life applications.
 
 📚 **Topic:** Computer Networking | Networking Hardware
+# Q3.Take photos or find images online (with source links) of at least three types of network cables (such as Ethernet, coaxial, fiber optic) and write one line describing where each is commonly used.
+Ans.>
