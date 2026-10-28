@@ -67,3 +67,25 @@ Fiber-optic cables are used for high-speed internet, telecommunications, and lon
 ## Conclusion
 Ethernet, coaxial, and fiber-optic cables are important in computer networking. Each type is used for different communication needs.
 
+# Q4.Create a comparison table listing at least four differences between a router and a switch, including their main use, typical location, and how they handle data.
+Ans.>
+## Comparison Between Router and Switch
+
+| Basis of Comparison | Router | Switch |
+|---|---|---|
+| **1. Main Use** | Connects different networks, such as a local network to the internet. | Connects multiple devices within the same Local Area Network (LAN). |
+| **2. Typical Location** | Commonly found at home gateways, offices, and network edges. | Commonly found in office networks, computer labs, and server rooms. |
+| **3. How Data Is Handled** | Forwards packets between networks using IP addresses. | Forwards Ethernet frames using MAC addresses. |
+| **4. OSI Layer** | Primarily operates at Layer 3 (Network Layer). | A typical Layer 2 switch operates at Layer 2 (Data Link Layer). |
+| **5. Data Destination** | Uses a routing table to select the next hop for data packets. | Uses a MAC address table to forward frames to the appropriate port. |
+| **6. Broadcast Domains** | Typically separates broadcast domains between routed interfaces. | Devices in the same VLAN generally share one broadcast domain. |
+| **7. Internet Connection** | Commonly connects a local network to the internet service provider. | Connects local devices to each other and usually to a router. |
+
+### Conclusion
+
+A router connects different networks and directs data between them, while a switch connects devices within a local network and forwards data to the appropriate device.
+
+### Key Difference
+
+- **Router:** Connects networks.
+- **Switch:** Connects devices within a network.
