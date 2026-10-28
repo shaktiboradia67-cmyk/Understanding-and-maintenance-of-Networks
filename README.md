@@ -20,6 +20,7 @@ Networking hardware devices are physical components used to connect computers an
 ## 🔍 Quick Summary
 
 - **Modem:** Connects to the internet service.
+- 
 - **Router:** Directs data between networks.
 - **Switch:** Connects devices within a local network.
 - **Access Point:** Provides wireless network access.
@@ -36,3 +37,33 @@ Each networking hardware device has a specific role in building a reliable netwo
 📚 **Topic:** Computer Networking | Networking Hardware
 # Q3.Take photos or find images online (with source links) of at least three types of network cables (such as Ethernet, coaxial, fiber optic) and write one line describing where each is commonly used.
 Ans.>
+# Types of Network Cables
+
+## Project Overview
+This project explains three common types of network cables: Ethernet, Coaxial, and Fiber-Optic cables, along with their common uses.
+
+## Types of Network Cables
+
+### 1. Ethernet Cable
+Ethernet cables are commonly used to connect computers, routers, and switches in homes, schools, and offices.
+
+**Image Source:** [Wikimedia Commons - Ethernet Cables](https://commons.wikimedia.org/wiki/Category:Ethernet_cables)
+
+### 2. Coaxial Cable
+Coaxial cables are commonly used for cable television and broadband internet connections.
+
+**Image Source:** [Wikimedia Commons - Coaxial Cables](https://commons.wikimedia.org/wiki/Category:Coaxial_cables)
+
+### 3. Fiber-Optic Cable
+Fiber-optic cables are used for high-speed internet, telecommunications, and long-distance data transmission.
+
+**Image Source:** [Wikimedia Commons - Optical Fiber Cables](https://commons.wikimedia.org/wiki/Category:Optical_fiber_cables)
+
+## Technologies Used
+- HTML5
+- CSS3
+- GitHub
+
+## Conclusion
+Ethernet, coaxial, and fiber-optic cables are important in computer networking. Each type is used for different communication needs.
+
